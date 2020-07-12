@@ -1,8 +1,3 @@
-webhook.edit({
-	name: 'VVickedNoob',
-	avatar: 'https://ibb.co/LNMdrPm',
-})
-
 <!DOCTYPE html>
 <html lang="en">
   <head>
